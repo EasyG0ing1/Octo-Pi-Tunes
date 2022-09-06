@@ -6,7 +6,7 @@
 
 Once installed:
  - Create a new Macro giving it a unique name (suggestion for name at top of each file)
- - Copy and paste the *Raw contents* of any file under the Tunes into the Macro editor
+ - Copy and paste the *Raw contents* of any file under the Tunes folder into the Macro editor
  - Save the macro
 
  Then from anywhere in any of your Gcode (like the end of print script in your slicer) add the command @NameOfMacro
